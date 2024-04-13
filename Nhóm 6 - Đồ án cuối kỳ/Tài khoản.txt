@@ -1,0 +1,29 @@
+Thông tin tài khoản:
+
+Sinh Viên 1:
+Tên Đăng nhập: sv001
+Mật khẩu đăng nhập: 17102002
+Loại tài khoản: Sinh Viên
+
+Sinh Viên 2:
+Tên Đăng nhập: sv002
+Mật khẩu đăng nhập: 10022002
+Loại tài khoản: Sinh Viên
+
+Giảng viên:
+Tên Đăng nhập: gv001
+Mật khẩu đăng nhập: 1111
+Loại tài khoản: Giảng viên
+
+Admin 1:
+Tên Đăng nhập: admin01
+Mật khẩu đăng nhập: 1122
+Loại tài khoản: Admin
+
+Admin 2:
+Tên Đăng nhập: admin02
+Mật khẩu đăng nhập: 1111
+Loại tài khoản: Admin
+
+
+
